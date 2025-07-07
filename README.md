@@ -159,6 +159,6 @@ Stay sharp. Stay ethical. Stay in control.
 ![Step 5 - Decryption succesfull](assets/pic5.png)
 
 ### 🏅 Decypted files
-![Step 5 - Decryption succesfull](assets/pic6.png)
+![Step 5 - Decryption succesfull](assets/pic6.PNG)
 
 ---
