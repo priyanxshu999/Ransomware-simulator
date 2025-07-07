@@ -130,8 +130,7 @@ This project is **strictly for educational and demonstration purposes** to:
 - Practice defensive programming
 - Study file encryption and key handling
 
-⚠️ Misusing this software may be illegal depending on your country.  
-**I am NOT responsible** for any misuse or damages caused.
+⚠️**I am NOT responsible** for any misuse or damages caused.
 
 ---
 
