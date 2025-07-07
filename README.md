@@ -157,7 +157,6 @@ Stay sharp. Stay ethical. Stay in control.
 
 ---
 
-## 📷 Screenshot (Optional)
 
 > ![screenshot](screenshot.png)  
 _Add a screenshot of the GUI here if desired._
