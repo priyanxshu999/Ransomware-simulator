@@ -117,22 +117,7 @@ mkdir files
 echo "REDACTED" > files/new.txt
 python main.py
 ```
-## 📷 Screenshots
 
-### 🔒 Encryption Activated
-![Step 1 - Unencrypted files](assets/pic1.png)
-
-### 🧊 GUI Ransom Note Window
-![Step 2 - Ransom GUI](assets/pic2.png)
-
-### 🔑 Key Entry Screen
-![Step 3 - Encrypted files](assets/pic3.png)
-
-### ✅ Successful Decryption
-![Step 4 - Decryption key](assets/pic4.png)
-
-### 🔁 Re-encryption Simulation
-![Step 5 - Decryption succesfull](assets/pic5.png)
 
 ---
 
@@ -158,7 +143,21 @@ Stay sharp. Stay ethical. Stay in control.
 ---
 
 
-> ![screenshot](screenshot.png)  
-_Add a screenshot of the GUI here if desired._
+## 📷 Screenshots
+
+### 🔒 Encryption Activated
+![Step 1 - Unencrypted files](assets/pic1.png)
+
+### 🧊 GUI Ransom Note Window
+![Step 2 - Ransom GUI](assets/pic2.png)
+
+### 🔑 Key Entry Screen
+![Step 3 - Encrypted files](assets/pic3.png)
+
+### ✅ Successful Decryption
+![Step 4 - Decryption key](assets/pic4.png)
+
+### 🔁 Re-encryption Simulation
+![Step 5 - Decryption succesfull](assets/pic5.png)
 
 ---
