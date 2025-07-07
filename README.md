@@ -1,4 +1,4 @@
-# 💀 WannaCry 2.0 - Educational Ransomware Simulator
+#  WannaCry 2.0 - Educational Ransomware Simulator
 
 > ⚠️ **FOR EDUCATIONAL PURPOSES ONLY**  
 This project is a **safe, offline, non-malicious ransomware simulator** designed to demonstrate basic ransomware behavior.  
