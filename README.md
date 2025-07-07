@@ -143,19 +143,19 @@ Stay sharp. Stay ethical. Stay in control.
 
 ## 📷 Screenshots
 
-### 🔒 Encryption Activated
+### 🔒 Before Encryption
 ![Step 1 - Unencrypted files](assets/pic1.png)
 
 ### 🧊 GUI Ransom Note Window
 ![Step 2 - Ransom GUI](assets/pic2.png)
 
-### 🔑 Key Entry Screen
+### 🔑 Encrypted Files
 ![Step 3 - Encrypted files](assets/pic3.png)
 
-### ✅ Successful Decryption
+### ✅ Decryption Key
 ![Step 4 - Decryption key](assets/pic4.png)
 
-### 🔁 Re-encryption Simulation
+### 🔁 Decryption succesfull
 ![Step 5 - Decryption succesfull](assets/pic5.png)
 
 ---
