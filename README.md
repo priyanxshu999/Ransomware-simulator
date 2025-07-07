@@ -3,7 +3,7 @@
 > ⚠️ **FOR EDUCATIONAL PURPOSES ONLY**  
 This project is a **safe, offline, non-malicious ransomware simulator** designed to demonstrate basic ransomware behavior.  
 **DO NOT USE** in any real-world system or production environment.  
-Violating laws with this code is **your responsibility**, not the author’s.
+Violating laws with this code is **your responsibility**, not mine.
 
 ---
 
@@ -131,13 +131,12 @@ This project is **strictly for educational and demonstration purposes** to:
 - Study file encryption and key handling
 
 ⚠️ Misusing this software may be illegal depending on your country.  
-**Author is NOT responsible** for any misuse or damages caused.
+**I am NOT responsible** for any misuse or damages caused.
 
 ---
 
 ## 🧠 Author Note
-
-Crafted by a disciplined soldier on a mission to simulate cyber chaos without crossing legal lines.  
+  
 Stay sharp. Stay ethical. Stay in control.
 
 ---
