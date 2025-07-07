@@ -158,4 +158,7 @@ Stay sharp. Stay ethical. Stay in control.
 ### 🔁 Decryption succesfull
 ![Step 5 - Decryption succesfull](assets/pic5.png)
 
+### 🏅 Decypted files
+![Step 5 - Decryption succesfull](assets/pic6.png)
+
 ---
